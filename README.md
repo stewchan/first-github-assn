@@ -1,14 +1,13 @@
 # Welcome to our GitHub classroom!
 
-Edit this file by clicking the 'pen' symbol to the right.
-Then answer in the space below each question:
+Do the following to Complete this assignment:
 
-1. First name
+1. Begin editing this file by clicking the 'pen' symbol to the right.
 
-2. Last name
+2. Enter your First Name:
 
-3. Favourite animal
+3. Enter your favourite animal:
 
+4. Now click the green 'commit changes' button at the bottom.
 
-Now click the green 'commit changes' button at the bottom.
-
+5. Done!
